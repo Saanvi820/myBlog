@@ -1,0 +1,26 @@
+img {
+   height: 400px;
+   width: 450px;     
+}
+
+.line1 {
+    flex: 50%
+    display:grid;
+}
+
+.line1 img {
+   height: 200px;
+   width: 250px;     
+      
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color:blueviolet;
+}
+
+.item img {
+    height: 600px;
+    width: 700px;
+}
